@@ -3,6 +3,9 @@
     "name": "TaskLabels",
     "slug": "TaskLabels",
     "version": "1.0.0",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -28,6 +31,9 @@
       "eas": {
         "projectId": "8add3051-efdd-4ff3-8f58-91e7868df111"
       }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8add3051-efdd-4ff3-8f58-91e7868df111"
     }
   }
 }
