@@ -2,7 +2,7 @@ name: EAS Build & Update
 
 on:
   push:
-    branches: [main]
+    branches: [claude/eager-bell-g3uaj5]
   workflow_dispatch:
     inputs:
       profile:
