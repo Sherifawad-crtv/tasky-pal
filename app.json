@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "TaskLabels",
+    "slug": "TaskLabels",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "tasklabels",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sherifbuilds.tasklabels"
+    },
+    "android": {
+      "package": "com.sherifbuilds.tasklabels",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
